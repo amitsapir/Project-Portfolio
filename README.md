@@ -1,7 +1,5 @@
 # Project-Portfolio
-Deliverable and Project Experience
-
-# Project Portfolio
+Deliverable and Project Experience in Biomedical Engineering at the University of Florida
 
 ## Designing a Tool for Bursal Tissue Collection and Reimplantation During Rotator Cuff Repair Surgery
 - **Description:** This project involves designing a specialized tool for collecting and reimplanting bursal tissue during rotator cuff repair surgery.
